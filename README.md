@@ -18,4 +18,5 @@
 **4/ Giải thích ý nghĩa của Branch, Commit mesage bạn thấy khi link Colab với Github?**
 
   Trong tiếng Anh, Branch có nghĩa là cành cây. Và khi tạo Branch đồng nghĩa với dự án chính của chúng ta sẽ có một nhánh khác. Branch và Fork có chức năng khá giống nhau. Tuy nhiên Branch - cành cây sẽ mật thiết với thân cây cùng nuôi dưỡng cây chính, khác với Fork mối quan hệ sẽ tách biệt, không liên quan đến nhau. Sau cùng ta có một map của dự án để có thể quan sát dự án một cách tổng quan.
+  
   Commit sẽ giống Save lại nhưng từ Commit thì làm ta thấy một sự cam kết hơn. Git được tạo bởi ông Linux người tạo ra hệ điều hành Linux. Nên mình có thể thấy các câu lệnh trên Github rất lạ so với ngôn ngữ máy tính bình thường. Theo cá nhân mình thấy các từ này đều có thể thay thế được, ví dự Repo thành Project, Fork như Archive,.. sẽ gần gũi hơn. Tuy nhiên hơn hết thì Github thực sự rất tối ưu và các từ này rất sát nghĩa với chức năng của nó. Nên chúng ta đành phải học như một ngôn ngữ bổ sung cho công việc hàng ngày.
