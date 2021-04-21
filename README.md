@@ -2,6 +2,7 @@
 **1/ Github dùng để làm gì?**
 
   Git là một phần mềm để theo dõi và quản lý các version của một dự án. Ở đó chúng ta có thể làm việc cùng nhau trên một bản đồ chung, đóng góp và chỉnh sửa các phần khác nhau để đồng thời duy trì hoặc phát triển. Đơn giản như việc để làm một chiếc ô tô thì bộ phận sẽ làm bánh xe, bộ phận khác làm động cơ,.. Phần mềm sẽ theo dõi và kết nối các bản này lại với nhau, đảm bảo mọi thứ không bị conflict. Và nhờ theo dõi sát sao các version, khi dự án vướng một lỗi nào đó, ta có thể truy vết dễ dàng từ dòng lịch sử.
+  
   Github với nguyên lý vẫn như Git, nhưng hơn hết nó hoạt động như một mạng xã hội. Vì thế chúng ta có thể dễ dàng toàn cầu hóa các dự án mà trước đây nó chỉ ở mức cộng đồng nhỏ. Mọi người được kết nối với nhau thông qua các dự án mở, hoặc cùng nhau đóng góp ý tưởng cho một mối quan tâm chung.
   
   
